@@ -7,3 +7,5 @@ set softtabstop=2
 set smarttab
 set expandtab
 set autoindent
+set cursorline
+set background=dark
