@@ -15,4 +15,4 @@ autocmd BufNewFile,BufRead *.c* set tabstop=4 softtabstop=4 shiftwidth=4 noexpan
 autocmd BufNewFile,BufRead *.htm* set tabstop=2 softtabstop=2 shiftwidth=2 expandtab
 autocmd BufNewFile,BufRead *.erb set tabstop=2 softtabstop=2 shiftwidth=2 expandtab
 autocmd BufNewFile,BufRead *.js set tabstop=2 softtabstop=2 shiftwidth=2 expandtab
-autocmd BufNewFile,BufRead *.css set tabstop=4 softtabstop=4 shiftwidth=4 expandtab
+autocmd BufNewFile,BufRead *.css set tabstop=2 softtabstop=2 shiftwidth=2 expandtab
