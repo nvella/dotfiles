@@ -1,0 +1,21 @@
+{
+    "editor.fontSize": 12,
+    "files.autoSave": "off",
+    "files.associations": {
+        "*.jl": "json"
+    },
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "cSpell.userWords": [
+        "coronavirus",
+        "datapoint",
+        "spotify"
+    ],
+    "git.autofetch": true,
+    "terminal.integrated.fontSize": 12,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.cursorStyle": "block",
+    "workbench.colorTheme": "Dracula",
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right"
+}
